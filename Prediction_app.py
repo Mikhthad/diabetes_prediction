@@ -16,7 +16,7 @@ st.markdown("""
         }
         .main {
             background-color: white;
-            background-image: url(https://wallpapercave.com/wp/wp2616571.jpg);
+            background-image: url(https://github.com/Mikhthad/diabetes_prediction/blob/master/3701981.webp);
             background-size: cover;
             background-blend-mode: overlay;
             background-color: rgba(1, 1, 1, 0.002); /* Adjust transparency */
