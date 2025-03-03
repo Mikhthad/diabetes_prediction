@@ -10,7 +10,7 @@ st.title('Prediction App')
 # st.write(pipeline.feature_names_in_)
 st.markdown("""
     <style>
-        /* Set the entire page background */
+        /* Apply background to entire page */
         #root {
             background-image: url("https://raw.githubusercontent.com/Mikhthad/diabetes_prediction/master/3701981.webp");
             background-size: cover;
