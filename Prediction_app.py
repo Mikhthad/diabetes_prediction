@@ -10,19 +10,13 @@ st.title('Prediction App')
 # st.write(pipeline.feature_names_in_)
 st.markdown("""
     <style>
-        body {
-            background-color: #f4f4f4;
-            color: #333333;
-        }
-        .main {
-            background-color: white;
+        /* Set the entire page background */
+        #root {
             background-image: url("https://raw.githubusercontent.com/Mikhthad/diabetes_prediction/master/3701981.webp");
             background-size: cover;
-            background-blend-mode: overlay;
-            background-color: rgba(1, 1, 1, 0.002); /* Adjust transparency */
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
         }
 
         h1 {
