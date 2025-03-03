@@ -14,7 +14,7 @@ st.markdown("""
             background-color: #f4f4f4;
             color: #333333;
         }
-        main {
+        .main {
             background-color: white;
             background-image: url("https://raw.githubusercontent.com/Mikhthad/diabetes_prediction/master/3701981.webp");
             background-size: cover;
@@ -26,7 +26,7 @@ st.markdown("""
         }
 
         h1 {
-            color: black;
+            color: black !important;
             text-align: center;
         }
         /* Style button */
