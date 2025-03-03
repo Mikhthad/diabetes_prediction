@@ -25,7 +25,7 @@ st.markdown("""
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
         }
         h1 {
-            color: black;
+            color: black !important;
             text-align: center;
         }
         /* Style button */
