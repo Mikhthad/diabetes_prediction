@@ -19,7 +19,7 @@ st.markdown("""
             background-image: url(https://github.com/Mikhthad/diabetes_prediction/blob/master/3701981.webp);
             background-size: cover;
             background-blend-mode: overlay;
-            background-color: rgba(1, 1, 1, 0.002); /* Adjust transparency */
+            background-color: rgba(1, 1, 1, 0.002) !important; /* Adjust transparency */
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
