@@ -11,13 +11,10 @@ st.title('Prediction App')
 st.markdown("""
     <style>
         /* Apply background to entire page */
-        #root {
-            background-image: url("https://raw.githubusercontent.com/Mikhthad/diabetes_prediction/master/3701981.webp");
+        #root .stApp {{
+            background: url("https://raw.githubusercontent.com/Mikhthad/diabetes_prediction/master/3701981.webp") no-repeat center center fixed;
             background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            background-repeat: no-repeat;
-        }
+        }}
 
         h1 {
             color: black !important;
