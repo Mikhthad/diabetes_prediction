@@ -15,15 +15,16 @@ st.markdown("""
             color: #333333;
         }
         .main {
-            background-color: white;
-            background-image: url(https://raw.githubusercontent.com/Mikhthad/diabetes_prediction/refs/heads/master/3701981.webp) !important;
-            background-size: cover;
-            background-blend-mode: overlay;
-            background-color: rgba(1, 1, 1, 0.002); /* Adjust transparency */
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-        }
+    background-color: white;
+    background-image: url("https://raw.githubusercontent.com/Mikhthad/diabetes_prediction/main/3701981.webp");
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(1, 1, 1, 0.002); /* Adjust transparency */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
         h1 {
             color: black !important;
             text-align: center;
