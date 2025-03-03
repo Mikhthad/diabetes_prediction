@@ -48,9 +48,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-
-
-# Main App Layout
 st.markdown("""
     <style>
         .custom-text {
@@ -66,7 +63,6 @@ st.markdown("""
     Take a step towards better health with this simple and efficient tool!</p>
 """, unsafe_allow_html=True)
 
-# Apply custom CSS to set question background black and text white
 st.markdown("""
     <style>
         /* Style question labels (background black, text white) */
