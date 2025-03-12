@@ -14,9 +14,10 @@ st.markdown("""
             background-color: #f4f4f4;
             color: #333333;
         }
-        .main {
+        [data-testid="stMain"] 
+            { background-image: url("https://github.com/Mikhthad/diabetes_prediction/blob/master/3701981.webp"){
             background-color: white;
-            background-image: url(https://github.com/Mikhthad/diabetes_prediction/blob/master/3701981.webp);
+            # background-image: url(https://github.com/Mikhthad/diabetes_prediction/blob/master/3701981.webp);
             background-size: cover;
             background-blend-mode: overlay;
             background-color: rgba(1, 1, 1, 0.002); /* Adjust transparency */
