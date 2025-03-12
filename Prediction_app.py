@@ -14,7 +14,7 @@ st.markdown("""
             background-color: #f4f4f4;
             color: #333333;
         }
-        [data-testid="stAppViewContainer"] 
+        [data-testid="stMain"] 
             { background-image: url("https://github.com/Mikhthad/diabetes_prediction/blob/master/3701981.webp");
             # background-color: white;
             # background-image: url(https://github.com/Mikhthad/diabetes_prediction/blob/master/3701981.webp);
