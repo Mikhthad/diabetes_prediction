@@ -52,7 +52,7 @@ st.markdown("""
 st.markdown("""
     <style>
         .custom-text {
-            font-size: 20px; /* Adjust text size */
+            font-size: 30px; /* Adjust text size */
             font-weight: bold; /* Make text bold */
             color: black !important; /* Force font color */
             font-family: 'Times New Roman', serif; /* Set font style */
